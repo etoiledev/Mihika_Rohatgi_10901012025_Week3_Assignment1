@@ -1,1 +1,4 @@
-# Mihika_Rohatgi_10901012025_Week3_Assignment1
+Student Name: Mihika Rohatgi
+Enrollment Number: 10901012025
+Branch: CSE
+College Name: IGDTUW
